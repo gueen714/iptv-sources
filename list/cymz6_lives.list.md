@@ -89,4 +89,4 @@
 | 83 | 金鹰卡通 | IPv4 直链 | <http://221.213.69.82:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=0&authid=0> |
 | 84 | 金鹰卡通 | IPv4 直链 | <http://118.81.98.130:9999/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Tue Aug 27 2024 02:39:22 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Aug 27 2024 04:25:52 GMT+0000 (Coordinated Universal Time)**
