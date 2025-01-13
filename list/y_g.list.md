@@ -5,8 +5,8 @@
 | No. | Channel Name | From | Source |
 | --- | ------------ | ---- | ------ |
 | 1 | 免费订阅：请勿贩卖... | epg.iill.top | <https://epg.iill.top/v/302.mp4> |
-| 2 | 维护时间：2025-1-10#佛系维护... | epg.iill.top | <https://epg.iill.top/v/301.mp4> |
-| 3 | 维护内容：维护 Gather「修复 •IPV6 源 / 删除 埋堆堆」 | epg.iill.top | <https://epg.iill.top/v/302.mp4> |
+| 2 | 维护时间：2025-1-13#佛系维护... | epg.iill.top | <https://epg.iill.top/v/301.mp4> |
+| 3 | 维护内容：维护 Gather「修复 •IPV6 源」 | epg.iill.top | <https://epg.iill.top/v/302.mp4> |
 | 4 | Love Nature 4K「自然」 | d18dyiwu97wm6q.cloudfront.net | <https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8> |
 | 5 | Loupe 4K「视觉」 | d2dw21aq0j0l5c.cloudfront.net | <https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8> |
 | 6 | Fashion 4K「时尚」 | fash2043.cloudycdn.services | <https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8> |
@@ -289,4 +289,4 @@
 | 283 | 猫和老鼠「动漫」 | live.iill.top | <https://live.iill.top/huya/11352879> |
 | 284 | 中华小当家「动漫」 | live.iill.top | <https://live.iill.top/huya/11342413> |
 
-Updated at **Mon Jan 13 2025 14:20:26 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Jan 13 2025 16:27:53 GMT+0000 (Coordinated Universal Time)**
